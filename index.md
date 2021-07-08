@@ -14,27 +14,27 @@ My primary research interest lies in image and video processing, including:
 
 ### Publications
 **<u>Journal Papers</u>**
-1. Progress in no-reference image quality assessment.
-Yuming Fang, Xiangjie Sui, Jiebin Yan, **Xuelin Liu**, Liping Huang
-*Jounral of Image and Graphics*, 2021.
+1. Progress in no-reference image quality assessment <br>
+Yuming Fang, Xiangjie Sui, Jiebin Yan, **Xuelin Liu**, Liping Huang <br>
+*Jounral of Image and Graphics*, 2021. <br>
 [arXiv] [code] [project] [slides] [video]
-2. Blind quality assessment for tone-mapped images based on local and global features
-**Xuelin Liu**, Yuming Fang, Rengang Du, Yifan Zuo, Wenying Wen
-*Information Sciences*, 2020.
+2. Blind quality assessment for tone-mapped images based on local and global features <br>
+**Xuelin Liu**, Yuming Fang, Rengang Du, Yifan Zuo, Wenying Wen <br>
+*Information Sciences*, 2020. <br>
 [arXiv] [code] [project] [slides] [video]
-3. Learning a no-reference quality predictor of stereoscopic images by visual binocular properties
-Yuming Fang, Jiebin Yan, Jiheng Wang, **Xuelin Liu**, Guantao Zhai, Patrick Le Callet
-*IEEE Access*, 2019.
+3. Learning a no-reference quality predictor of stereoscopic images by visual binocular properties <br>
+Yuming Fang, Jiebin Yan, Jiheng Wang, **Xuelin Liu**, Guantao Zhai, Patrick Le Callet <br>
+*IEEE Access*, 2019. <br>
 [arXiv] [code] [project] [slides] [video]
-4. Stereoscopic image quality assessment by deep convolutional neural network
-Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang
-*Journal of Visual Communication and Image Representation* **(JVCIR)**, 2019.
+4. Stereoscopic image quality assessment by deep convolutional neural network <br>
+Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang <br>
+*Journal of Visual Communication and Image Representation* **(JVCIR)**, 2019. <br>
 [arXiv] [code] [project] [slides] [video]
 
 **<u>Conference Papers</u>**
-1. Blind image quality assessment by learning from multiple annotators
-Kede Ma, **Xuelin Liu**, Yuming Fang, Eero P. Simoncelli
-*IEEE International Conference on Image Processing* **(ICIP)**, 2019.
+1. Blind image quality assessment by learning from multiple annotators <br>
+Kede Ma, **Xuelin Liu**, Yuming Fang, Eero P. Simoncelli <br>
+*IEEE International Conference on Image Processing* **(ICIP)**, 2019. <br>
 [arXiv] [code] [project] [slides] [video]
 
 ```markdown
