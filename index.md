@@ -29,7 +29,7 @@ Yuming Fang, Jiebin Yan, Jiheng Wang, **Xuelin Liu**, Guantao Zhai, Patrick Le C
 **4. Stereoscopic image quality assessment by deep convolutional neural network** <br>
 Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang <br>
 *Journal of Visual Communication and Image Representation* **(JVCIR)**, 2019. <br>
-[arXiv] [code] [project] [slides] [video]
+[arXiv] [code] [project] [slides] [video] 
 
 **<u>Conference Papers</u>**
 **1. Blind image quality assessment by learning from multiple annotators** <br>
