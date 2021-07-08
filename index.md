@@ -38,7 +38,7 @@ Kede Ma, **Xuelin Liu**, Yuming Fang, Eero P. Simoncelli <br>
 [arXiv] [code] [project] [slides] [video]
 
 ### Academic Services
-To be continued...
+- To be continued...
 
 ### Professional Activities
 - Volunteer for the 27th IEEE International Conference on Image Processing (ICIP) held at the China National Convention Center in Beijing, China, September, 2017.
