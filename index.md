@@ -13,7 +13,7 @@ My primary research interest lies in image and video processing, including:
 - computer vision
 
 ### Publications
-**<u>Journal Papers</u>**
+**<u>Journal Papers</u>** <br>
 **1. Progress in no-reference image quality assessment** <br>
 Yuming Fang, Xiangjie Sui, Jiebin Yan, **Xuelin Liu**, Liping Huang <br>
 *Jounral of Image and Graphics*, 2021. <br>
@@ -31,7 +31,7 @@ Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang <br>
 *Journal of Visual Communication and Image Representation* **(JVCIR)**, 2019. <br>
 [arXiv] [code] [project] [slides] [video] 
 
-**<u>Conference Papers</u>**
+**<u>Conference Papers</u>** <br>
 **1. Blind image quality assessment by learning from multiple annotators** <br>
 Kede Ma, **Xuelin Liu**, Yuming Fang, Eero P. Simoncelli <br>
 *IEEE International Conference on Image Processing* **(ICIP) (Oral)**, 2019. <br>
