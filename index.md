@@ -42,6 +42,7 @@ Kede Ma, **Xuelin Liu**, Yuming Fang, Eero P. Simoncelli <br>
 
 ### Professional Activities
 - Volunteer for the 24th IEEE International Conference on Image Processing (ICIP) held at the China National Convention Center in Beijing, China, September, 2017.
+- Volunteer for the 11th IEEE International Conference on Virtual Reality and Visualization (ICVRV) held in Nanchang, China, October, 2021.
 
 ```markdown
 To be continued...
