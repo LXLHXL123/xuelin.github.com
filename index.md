@@ -14,7 +14,7 @@ My primary research interest lies in image and video processing, including:
 
 ### Publications
 **<u>Journal Papers</u>** <br>
-**1. Progress in no-reference image quality assessment** <br>
+**1. Progress in no-reference image quality assessment: A survey** <br>
 Yuming Fang, Xiangjie Sui, Jiebin Yan, **Xuelin Liu**, Liping Huang <br>
 *Jounral of Image and Graphics*, 2021. <br>
 [arXiv] [code] [project] [slides] [video] <br>
