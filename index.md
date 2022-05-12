@@ -11,6 +11,7 @@ My primary research interest lies in image and video processing, including:
 - image/video editing
 - image/video quality assessment
 - computer vision
+- video transmission
 
 ### Publications
 **<u>Journal Papers</u>** <br>
