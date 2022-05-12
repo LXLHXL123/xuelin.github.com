@@ -14,25 +14,33 @@ My primary research interest lies in image and video processing, including:
 
 ### Publications
 **<u>Journal Papers</u>** <br>
-**1. Progress in no-reference image quality assessment: A survey** <br>
+**1. Survey on image quality assessment from the perspective of distortion** <br>
+Jiebin Yan, Yuming Fang, **Xuelin Liu** <br>
+*Jounral of Image and Graphics*, 2022. <br>
+[arXiv] [code] [project] [slides] [video] <br>
+**2. Progress in no-reference image quality assessment: A survey** <br>
 Yuming Fang, Xiangjie Sui, Jiebin Yan, **Xuelin Liu**, Liping Huang <br>
 *Jounral of Image and Graphics*, 2021. <br>
 [arXiv] [code] [project] [slides] [video] <br>
-**2. Blind quality assessment for tone-mapped images based on local and global features** <br>
+**3. Blind quality assessment for tone-mapped images based on local and global features** <br>
 **Xuelin Liu**, Yuming Fang, Rengang Du, Yifan Zuo, Wenying Wen <br>
 *Information Sciences*, 2020. <br>
 [arXiv] [code] [project] [slides] [video] <br>
-**3. Learning a no-reference quality predictor of stereoscopic images by visual binocular properties** <br>
+**4. Learning a no-reference quality predictor of stereoscopic images by visual binocular properties** <br>
 Yuming Fang, Jiebin Yan, Jiheng Wang, **Xuelin Liu**, Guantao Zhai, Patrick Le Callet <br>
 *IEEE Access*, 2019. <br>
 [arXiv] [code] [project] [slides] [video] <br>
-**4. Stereoscopic image quality assessment by deep convolutional neural network** <br>
+**5. Stereoscopic image quality assessment by deep convolutional neural network** <br>
 Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang <br>
 *Journal of Visual Communication and Image Representation* **(JVCIR)**, 2019. <br>
 [arXiv] [code] [project] [slides] [video] 
 
 **<u>Conference Papers</u>** <br>
-**1. Blind image quality assessment by learning from multiple annotators** <br>
+**1. Perceptual quality assessment of omnidirectional images** <br>
+Yuming Fang, Liping Huang, Jiebin Yan, **Xuelin Liu**, Yang Liu <br>
+*Association for the Advancement of Artificial Intelligence* **(AAAI) (Poster)**, 2022. <br>
+[arXiv] [code] [project] [slides] [video]
+**2. Blind image quality assessment by learning from multiple annotators** <br>
 Kede Ma, **Xuelin Liu**, Yuming Fang, Eero P. Simoncelli <br>
 *IEEE International Conference on Image Processing* **(ICIP) (Oral)**, 2019. <br>
 [arXiv] [code] [project] [slides] [video]
