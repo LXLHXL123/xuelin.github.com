@@ -39,7 +39,7 @@ Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang <br>
 **1. Perceptual quality assessment of omnidirectional images** <br>
 Yuming Fang, Liping Huang, Jiebin Yan, **Xuelin Liu**, Yang Liu <br>
 *Association for the Advancement of Artificial Intelligence* **(AAAI) (Poster)**, 2022. <br>
-[arXiv] [code] [project] [slides] [video]
+[arXiv] [code] [project] [slides] [video] <br>
 **2. Blind image quality assessment by learning from multiple annotators** <br>
 Kede Ma, **Xuelin Liu**, Yuming Fang, Eero P. Simoncelli <br>
 *IEEE International Conference on Image Processing* **(ICIP) (Oral)**, 2019. <br>
