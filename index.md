@@ -41,7 +41,11 @@ Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang <br>
 Yuming Fang, Liping Huang, Jiebin Yan, **Xuelin Liu**, Yang Liu <br>
 *Association for the Advancement of Artificial Intelligence* **(AAAI) (Poster)**, 2022. <br>
 [arXiv] [code] [project] [slides] [video] <br>
-**2. Blind image quality assessment by learning from multiple annotators** <br>
+**2. Evaluating the robustness of depth image super-resolution models** <br>
+Dengxiang Wang, Jiebin Yan, **Xuelin Liu**, Yifan Zuo <br>
+*IEEE 24th International Workshop on Multimedia Signal Processing* **(MMSP) (Poster)**, 2022. <br>
+[arXiv] [code] [project] [slides] [video] <br>
+**3. Blind image quality assessment by learning from multiple annotators** <br>
 Kede Ma, **Xuelin Liu**, Yuming Fang, Eero P. Simoncelli <br>
 *IEEE International Conference on Image Processing* **(ICIP) (Oral)**, 2019. <br>
 [arXiv] [code] [project] [slides] [video]
