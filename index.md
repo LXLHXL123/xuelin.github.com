@@ -29,7 +29,7 @@ Yuming Fang, Xiangjie Sui, Jiebin Yan, **Xuelin Liu**, Liping Huang <br>
 [arXiv] [code] [project] [slides] [video] <br>
 **3. Blind quality assessment for tone-mapped images based on local and global features** <br>
 **Xuelin Liu**, Yuming Fang, Rengang Du, Yifan Zuo, Wenying Wen <br>
-**Information Sciences （INS）**, 2020. <br>
+**Information Sciences (INS)**, 2020. <br>
 [arXiv] [code] [project] [slides] [video] <br>
 **4. Learning a no-reference quality predictor of stereoscopic images by visual binocular properties** <br>
 Yuming Fang, Jiebin Yan, Jiheng Wang, **Xuelin Liu**, Guantao Zhai, Patrick Le Callet <br>
