@@ -12,10 +12,9 @@ I am a PhD student working with Professor Yuming Fang and Zheng Wan at Jiangxi U
 
 ### Research
 My primary research interest lies in image and video processing, including: 
-- image/video editing
 - image/video quality assessment
 - computer vision
-- video transmission
+- multimedia communications
 
 ### Publications
 **<u>Journal Papers</u>** <br>
