@@ -28,11 +28,11 @@ Jiebin Yan, Yuming Fang, **Xuelin Liu**, Yiru Yao, Xiangjie Sui<br>
 [arXiv] [code] [project] [slides] [video] <br>
 **3. Survey on image quality assessment from the perspective of distortion** <br>
 Jiebin Yan, Yuming Fang, **Xuelin Liu** <br>
-**Jounral of Image and Graphics (JIG)-中国图象图形学报**, 2022. <br>
+**Journal of Image and Graphics (JIG)-中国图象图形学报**, 2022. <br>
 [arXiv] [code] [project] [slides] [video] <br>
 **4. Progress in no-reference image quality assessment: A survey** <br>
 Yuming Fang, Xiangjie Sui, Jiebin Yan, **Xuelin Liu**, Liping Huang <br>
-**Jounral of Image and Graphics (JIG)-中国图象图形学报**, 2021. <br>
+**Journal of Image and Graphics (JIG)-中国图象图形学报**, 2021. <br>
 [arXiv] [code] [project] [slides] [video] <br>
 **5. Blind quality assessment for tone-mapped images based on local and global features** <br>
 **Xuelin Liu**, Yuming Fang, Rengang Du, Yifan Zuo, Wenying Wen <br>
