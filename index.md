@@ -50,7 +50,7 @@ Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang <br>
 - **<u>Conference Papers</u>** <br>
 **1. Perceptual quality assessment of omnidirectional images** <br>
 Yuming Fang, Liping Huang, Jiebin Yan, **Xuelin Liu**, Yang Liu <br>
-**AAAI Conference on Artificial Intelligence (AAAI) (Poster)**, 2022. <br>
+**AAAI Conference on Artificial Intelligence (AAAI) (Oral)**, 2022. <br>
 [arXiv] [code] [project] [slides] [video] <br>
 **2. Evaluating the robustness of depth image super-resolution models** <br>
 Dengxiang Wang, Jiebin Yan, **Xuelin Liu**, Yifan Zuo <br>
