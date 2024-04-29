@@ -26,7 +26,7 @@ Jiebin Yan, Jiale Rao, **Xuelin Liu**, Yuming Fang, Yifan Zuo, Weide Liu<br>
 Xiangjie Sui, Hanwei Zhu, **Xuelin Liu**, Yuming Fang, Shiqi Wang, Zhou Wang<br>
 **Submitted IEEE Transactions on Image Processing**, 2024.<br>
 - **Blind image quality assessment by learning and adapting from multiple annotators**<br>
-Zhihua Wang<sup>^{\star]</sup>, **Xuelin Liu<sup>\star</sup>**, Keshuo Xu, Yuming Fang, Qiuping Jiang<br>
+Zhihua Wang<sup>{*}</sup>, **Xuelin Liu<sup>\star</sup>**, Keshuo Xu, Yuming Fang, Qiuping Jiang<br>
 **Submitted IEEE Transactions on Neural Networks and Learning Systems**, 2023.<br>
 - **2AFC prompting of large multimodal models for image quality assessment**<br>
 Hanwei Zhu, Xiangjie Sui, Baoliang Chen, **Xuelin Liu**, Peilin Chen, Yuming Fang, Shiqi Wang<br>
