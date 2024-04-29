@@ -17,7 +17,7 @@ My primary research interest lies in image and video processing, including:
 - multimedia communications
 
 ### Publications (*Co-first Author)
-**1. Preprints**<br>
+**<em>1. Preprints<em>**<br>
 
 
 **2. Journal Papers** <br>
