@@ -17,12 +17,16 @@ My primary research interest lies in image and video processing, including:
 - multimedia communications
 
 ### Publications (*Co-first Author)
-**1. Journal Papers** <br>
+**1. Preprints**<br>
+
+
+**2. Journal Papers** <br>
 **2024**<br>
 - **Perceptual quality assessment of omnidirectional images: A benchmark and computational model**<br>
 **Xuelin Liu**, Jiebin Yan, Liping Huang, Yuming Fang, Zheng Wan, Yang Liu<br>
 **ACM Transactions on Multimedia Computing, Communications, and Applications**, 2024.<br>
 [paper] [code] [project]<br>
+
 **2023**<br>
 - **A quality-of-experience database for adaptive omnidirectional video streaming**<br>
 **Xuelin Liu**, Jiebin Yan, Zheng Wan, Yuming Fang, Zhou Wang<br>
@@ -61,15 +65,19 @@ Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang<br>
 **Journal of Visual Communication and Image Representation (JVCIR)**, 2019.<br>
 [paper] [code] [project]
 
-**2. Conference Papers** <br>
+**3. Conference Papers** <br>
 - **Blind quality assessment of panoramic images based on multiple viewport sequences**<br>
 **Xuelin Liu**, Jiebin Yan, Zheng Wan, Yuming Fang, Hantao Liu<br>
 **IEEE International Symposium on Circuits and Systems (ISCAS) (Poster)**, 2024.<br>
 [paper] [code] [project] [slides] [video]<be>
+
+**2023**<br>
 - **Collaborative edge caching for panoramic video streaming**<br>
 Zheng Wan, Mingyang Ma, **Xuelin Liu**<br>
 - **IEEE International Performance Computing and Communications Conference Workshop (IPCCC) (Poster)**, 2023.<br>
 [paper] [code] [project] [slides] [video]<be>
+
+**2022**<br>
 - **Perceptual quality assessment of omnidirectional images** <br>
 Yuming Fang, Liping Huang, Jiebin Yan, **Xuelin Liu**, Yang Liu <br>
 **AAAI Conference on Artificial Intelligence (AAAI) (Oral)**, 2022. <br>
@@ -77,7 +85,9 @@ Yuming Fang, Liping Huang, Jiebin Yan, **Xuelin Liu**, Yang Liu <br>
 - **Evaluating the robustness of depth image super-resolution models** <br>
 Dengxiang Wang, Jiebin Yan, **Xuelin Liu**, Yifan Zuo <br>
 **IEEE 24th International Workshop on Multimedia Signal Processing (MMSP) (Poster)**, 2022. <br>
-[paper] [code] [project] [slides] [video] <br>
+[paper] [code] [project] [slides] [video] <be>
+
+**2019**<br>
 - **Blind image quality assessment by learning from multiple annotators** <br>
 Kede Ma, **Xuelin Liu**, Yuming Fang, Eero P. Simoncelli <br>
 **IEEE International Conference on Image Processing (ICIP) (Oral)**, 2019. <br>
