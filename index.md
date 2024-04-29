@@ -17,7 +17,7 @@ My primary research interest lies in image and video processing, including:
 - multimedia communications
 
 ### Publications
-- **<u>Journal Papers</u>** <be>
+- **<u>Journal Papers</u>** <br>
 **1. Perceptual quality assessment of omnidirectional images: A benchmark and computational model**<br>
 **Xuelin Liu**, Jiebin Yan, Liping Huang, Yuming Fang, Zheng Wan, Yang Liu<br>
 **ACM Transactions on Multimedia Computing, Communications, and Applications**, 2024.<br>
@@ -51,7 +51,7 @@ Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang<br>
 **Journal of Visual Communication and Image Representation (JVCIR)**, 2019.<br>
 [paper] [code] [project]
 
-- **<u>Conference Papers</u>** <be>
+- **<u>Conference Papers</u>** <br>
 **1. Blind quality assessment of panoramic images based on multiple viewport sequences**<br>
 **Xuelin Liu**, Jiebin Yan, Zheng Wan, Yuming Fang, Hantao Liu<br>
 **IEEE International Symposium on Circuits and Systems (ISCAS) (Poster)**, 2024.<br>
