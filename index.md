@@ -17,7 +17,7 @@ My primary research interest lies in image and video processing, including:
 - computer vision
 - multimedia communications
 
-### Publications (*Co-first Author)
+### Publications ($\star$Co-first Author)
 **<em>1. Preprints</em>**<br>
 - **Subjective and objective quality assessment of non-uniformly distorted omnidirectional images**<br>
 Jiebin Yan, Jiale Rao, **Xuelin Liu**, Yuming Fang, Yifan Zuo, Weide Liu<br>
