@@ -22,7 +22,7 @@ My primary research interest lies in image and video processing, including:
 - **Perceptual quality assessment of omnidirectional images: A benchmark and computational model**<br>
 **Xuelin Liu**, Jiebin Yan, Liping Huang, Yuming Fang, Zheng Wan, Yang Liu<br>
 **ACM Transactions on Multimedia Computing, Communications, and Applications**, 2024.<br>
-[paper] [code] [project]<be>
+[paper] [code] [project]<br>
 **2023**<br>
 - **A quality-of-experience database for adaptive omnidirectional video streaming**<br>
 **Xuelin Liu**, Jiebin Yan, Zheng Wan, Yuming Fang, Zhou Wang<br>
@@ -31,22 +31,22 @@ My primary research interest lies in image and video processing, including:
 - **A survey on recent advances in video quality assessment**<br>
 Jiebin Yan, Yuming Fang, **Xuelin Liu**, Yiru Yao, Xiangjie Sui<br>
 **Chinese Journal of Computers (CJC)-计算机学报**, 2023.<br>
-[paper]<be>
+[paper]<br>
 **2022**<br>
 - **Survey on image quality assessment from the perspective of distortion**<br>
 Jiebin Yan, Yuming Fang, **Xuelin Liu**<br>
 **Journal of Image and Graphics (JIG)-中国图象图形学报**, 2022.<br>
-[paper]<be>
+[paper]<br>
 **2021**<br>
 - **Progress in no-reference image quality assessment: A survey**<br>
 Yuming Fang, Xiangjie Sui, Jiebin Yan, **Xuelin Liu**, Liping Huang<br>
 **Journal of Image and Graphics (JIG)-中国图象图形学报**, 2021.<br>
-[paper] [code] [project]<be>
+[paper] [code] [project]<br>
 **2020**<br>
 - **Blind quality assessment for tone-mapped images based on local and global features**<br>
 **Xuelin Liu**, Yuming Fang, Rengang Du, Yifan Zuo, Wenying Wen<br>
 **Information Sciences (INS)**, 2020.<br>
-[paper] [code] [project]<be>
+[paper] [code] [project]<br>
 **2019**<br>
 - **Learning a no-reference quality predictor of stereoscopic images by visual binocular properties**<br>
 Yuming Fang, Jiebin Yan, Jiheng Wang, **Xuelin Liu**, Guantao Zhai, Patrick Le Callet<br>
