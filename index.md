@@ -102,7 +102,7 @@ Yuming Fang, Liping Huang, Jiebin Yan, **Xuelin Liu**, Yang Liu <br>
 [paper] [code] [project] [slides] [video] <br>
 - **Evaluating the robustness of depth image super-resolution models** <br>
 Dengxiang Wang, Jiebin Yan, **Xuelin Liu**, Yifan Zuo <br>
-**IEEE 24th International Workshop on Multimedia Signal Processing (MMSP) (Poster)**, 2022. <br>
+**IEEE International Workshop on Multimedia Signal Processing (MMSP) (Poster)**, 2022. <br>
 [paper] [code] [project] [slides] [video] <be>
 
 **2019**<br>
