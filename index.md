@@ -13,12 +13,24 @@ I am a PhD student working with Professor Yuming Fang and Zheng Wan at Jiangxi U
 ### Research
 My primary research interest lies in image and video processing, including: 
 - image/video quality assessment
+- quality of experience
 - computer vision
 - multimedia communications
 
 ### Publications (*Co-first Author)
 **<em>1. Preprints</em>**<br>
-
+- **Subjective and objective quality assessment of non-uniformly distorted omnidirectional images**
+Jiebin Yan, Jiale Rao, **Xuelin Liu**, Yuming Fang, Yifan Zuo, Weide Liu<br>
+**Submitted IEEE Transactions on Multimedia**, 2024.<br>
+- **Perceptual quality assessment of 360 images based on generative scanpath representation**
+Xiangjie Sui, Hanwei Zhu, **Xuelin Liu**, Yuming Fang, Shiqi Wang, Zhou Wang<br>
+**Submitted IEEE Transactions on Image Processing**, 2024.<br>
+- **Blind image quality assessment by learning and adapting from multiple annotators**
+Zhihua Wang<sup>*</sup>, **Xuelin Liu<sub>*</sup>**, Keshuo Xu, Yuming Fang, Qiuping Jiang<br>
+**Submitted IEEE Transactions on Neural Networks and Learning Systems**, 2023.<br>
+- **2AFC prompting of large multimodal models for image quality assessment**
+Hanwei Zhu, Xiangjie Sui, Baoliang Chen, **Xuelin Liu**, Peilin Chen, Yuming Fang, Shiqi Wang<br>
+**Submitted IEEE Transactions on Circuits and Systems for Video Technology**, 2024.<br>
 
 **<em>2. Journal Papers</em>** <br>
 **2024**<br>
