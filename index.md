@@ -17,20 +17,26 @@ My primary research interest lies in image and video processing, including:
 - computer vision
 - multimedia communications
 
-### Publications (+Co-first Author)
-**<em>1. Preprints</em>**<br>
+### Publications (+: Co-first Author)
+**<em>1. Preprints</em>**<be>
+- **FakeBench: Uncover the Achilles' hells of fake images with large multimodal models**<br>
+Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>
 - **Subjective and objective quality assessment of non-uniformly distorted omnidirectional images**<br>
 Jiebin Yan, Jiale Rao, **Xuelin Liu**, Yuming Fang, Yifan Zuo, Weide Liu<br>
-**Submitted IEEE Transactions on Multimedia**, 2024.<br>
 - **Perceptual quality assessment of 360 images based on generative scanpath representation**<br>
 Xiangjie Sui, Hanwei Zhu, **Xuelin Liu**, Yuming Fang, Shiqi Wang, Zhou Wang<br>
-**Submitted IEEE Transactions on Image Processing**, 2024.<br>
 - **Blind image quality assessment by learning and adapting from multiple annotators**<br>
 Zhihua Wang<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Keshuo Xu, Yuming Fang, Qiuping Jiang<br>
-**Submitted IEEE Transactions on Neural Networks and Learning Systems**, 2023.<br>
 - **2AFC prompting of large multimodal models for image quality assessment**<br>
 Hanwei Zhu, Xiangjie Sui, Baoliang Chen, **Xuelin Liu**, Peilin Chen, Yuming Fang, Shiqi Wang<br>
-**Submitted IEEE Transactions on Circuits and Systems for Video Technology**, 2024.<br>
+- **Opinion-unaware blind stereoscopic image quality assessment: A comprehensive study**<br>
+Jiebin Yan, Yuming Fang, **Xuelin Liu**, Wenhui Jiang, Yang Liu<br>
+- **Max360IQ: Blind omnidirectional image quality assessment with multi-axis attention**<br>
+Jiebin Yan, Ziwen Tan, Yuming Fang, Jiale Rao, **Xuelin Liu**<br>
+- **Quality of experience of viewport adaptive omnidirectional video streaming**<br>
+**Xuelin Liu**, Haoyun Zhang, Jiebin Yan, Hao Zhang, Yuming, Fang, Shiqi Wang<br>
+- **Online video quality assessment: From spatial to temporal sampling**<br>
+Jiebin Yan, Lei Wu, **Xuelin Liu**, Yuming Fang, Xue Xia<br>
 
 **<em>2. Journal Papers</em>** <br>
 **2024**<br>
