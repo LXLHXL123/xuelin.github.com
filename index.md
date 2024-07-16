@@ -1,7 +1,7 @@
 # Xuelin Liu (刘学林)
 ![Image](/person.jpg)
 
-I am currently a Post-Doctoral Fellow with Jiangxi University of Finance and Economics (JUFE). I received the B.S., MA.Sc, and Ph.D. degrees from the JUFE, Nanchang, Jiangxi, China, in 2017, 2020, and 2024, respectively. My supervisors were Professor **Yuming Fang** and **Zheng Wan** at JUFE and Prof. **Kede Ma** at City University of Hong Kong (CityU). The Lab is multimedia content analysis and quality assessment (MCAQA). From May 2023 to June 2024, I was a Visiting PhD Student at the City University of Hong Kong and my supervisor was Prof. **Shiqi Wang**.
+I am currently a Post-Doctoral Fellow with Jiangxi University of Finance and Economics (JUFE). I received the B.S., MA.Sc, and Ph.D. degrees from the JUFE, Nanchang, Jiangxi, China, in 2017, 2020, and 2024, respectively. My supervisors were Prof. **Yuming Fang** and **Zheng Wan** at JUFE and Prof. **Kede Ma** at City University of Hong Kong (CityU). The Lab is multimedia content analysis and quality assessment (MCAQA). From May 2023 to June 2024, I was a Visiting PhD Student at the City University of Hong Kong and my supervisor was Prof. **Shiqi Wang**.
 
 #### [Home](https://lxlhxl123.github.io/xuelin.github.com/) / [OCID](https://orcid.org/my-orcid?orcid=0000-0001-5380-8343) / [Google Scholar](https://scholar.google.com/citations?user=fJNsU58AAAAJ&hl=zh-CNd) / [DBLP](https://dblp.uni-trier.de/pid/210/8987.html) / [Github](https://github.com/LXLHXL123) / [ResearchGate](https://www.researchgate.net/profile/Xuelin-Liu-2) / [CV](https://github.com/LXLHXL123/xuelin.github.com/edit/gh-pages/index.md) / [CSDN](https://blog.csdn.net/lxlhexl)
 
@@ -38,9 +38,9 @@ Jiebin Yan, Lei Wu, **Xuelin Liu**, Yuming Fang, Xue Xia<br>
 
 **<em>2. Journal Papers</em>** <br>
 **2024**<br>
-- **Survey on image quality assessment from the perspective of distortion**<br>
-Jiebin Yan, Yuming Fang, **Xuelin Liu**<br>
-**Journal of Image and Graphics (JIG)-中国图象图形学报**, 2022.<br>
+- **Viewport-independent and deformation-unaware no-reference omnidirectional image quality assessment**<br>
+Jiebin Yan, Ziwen Tan, Kangchen Wu, **Xuelin Liu**, Yuming Fang<br>
+**Journal of Image and Graphics (JIG)-中国图象图形学报**, 2024.<br>
 [paper]<br>
 - **Perceptual quality assessment of omnidirectional images: A benchmark and computational model**<br>
 **Xuelin Liu**, Jiebin Yan, Liping Huang, Yuming Fang, Zheng Wan, Yang Liu<br>
