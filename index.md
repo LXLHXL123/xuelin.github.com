@@ -6,11 +6,13 @@ I am currently a Post-Doctoral Fellow with Jiangxi University of Finance and Eco
 #### [Home](https://lxlhxl123.github.io/xuelin.github.com/) / [OCID](https://orcid.org/my-orcid?orcid=0000-0001-5380-8343) / [Google Scholar](https://scholar.google.com/citations?user=fJNsU58AAAAJ&hl=zh-CNd) / [DBLP](https://dblp.uni-trier.de/pid/210/8987.html) / [Github](https://github.com/LXLHXL123) / [ResearchGate](https://www.researchgate.net/profile/Xuelin-Liu-2) / [CV](https://github.com/LXLHXL123/xuelin.github.com/edit/gh-pages/index.md) / [CSDN](https://blog.csdn.net/lxlhexl)
 
 ### Email:
+---
 - xuelinliu-bill@foxmail.com
 - xuelinliu18702604350@gmail.com
 - lxl_jxufe@outlook.com
 
 ### Research
+---
 My primary research interest lies in image and video processing, including: 
 - image/video quality assessment
 - quality of experience
@@ -120,9 +122,11 @@ Kede Ma, **Xuelin Liu**, Yuming Fang, Eero P. Simoncelli <br>
 [paper] [code] [project] [slides] [video]
 
 ### Academic Services
+---
 - To be continued...
 
 ### Professional Activities
+---
 - Volunteer for the 24th IEEE International Conference on Image Processing (ICIP) held at the China National Convention Center in Beijing, China, September, 2017.
 - Volunteer for the 11th IEEE International Conference on Virtual Reality and Visualization (ICVRV) held in Nanchang, China, October, 2021.
 
