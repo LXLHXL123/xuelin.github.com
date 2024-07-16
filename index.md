@@ -22,11 +22,11 @@ My primary research interest lies in image and video processing, including:
 ### News
 ---
 <ul>
-<li><p>06/2024, One paper is accepted by IEEE ICIP</p>
+<li><p>06/2024, ⭐ One paper is accepted by IEEE ICIP!</p>
 </li>
-<li><p>06/2024, One paper is accepted by JIG (中国图象图形学报)!</p>
+<li><p>06/2024, ⭐ One paper is accepted by JIG (中国图象图形学报)!</p>
 </li>
-<li><p>05/2024, I pass my Ph.D. defense</p>
+<li><p>05/2024, I pass my Ph.D. defense.</p>
 </li>
 </ul>
 
