@@ -51,7 +51,7 @@ Jiebin Yan, Ziwen Tan, Yuming Fang, Jiale Rao, **Xuelin Liu**<br>
 Jiebin Yan, Lei Wu, **Xuelin Liu**, Yuming Fang, Xue Xia<br>
 
 **<em>2. Journal Papers</em>** <br>
-**<center>2024</center>**<br>
+**<div align='center'>2024</div>**<br>
 - **Viewport-independent and deformation-unaware no-reference omnidirectional image quality assessment**<br>
 Jiebin Yan, Ziwen Tan, Kangchen Wu, **Xuelin Liu**, Yuming Fang<br>
 **Journal of Image and Graphics (JIG)-中国图象图形学报**, 2024.<br>
