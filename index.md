@@ -51,7 +51,7 @@ Jiebin Yan, Ziwen Tan, Yuming Fang, Jiale Rao, **Xuelin Liu**<br>
 Jiebin Yan, Lei Wu, **Xuelin Liu**, Yuming Fang, Xue Xia<br>
 
 **<em>2. Journal Papers</em>** <br>
-**<div align='center'>2024</div>**<br>
+**2024**<br>
 - **Viewport-independent and deformation-unaware no-reference omnidirectional image quality assessment**<br>
 Jiebin Yan, Ziwen Tan, Kangchen Wu, **Xuelin Liu**, Yuming Fang<br>
 **Journal of Image and Graphics (JIG)-中国图象图形学报**, 2024.<br>
@@ -61,7 +61,7 @@ Jiebin Yan, Ziwen Tan, Kangchen Wu, **Xuelin Liu**, Yuming Fang<br>
 **ACM Transactions on Multimedia Computing, Communications, and Applications**, 2024.<br>
 [paper] [code] [project]<br>
 
-**<div align='center'>2023</div>**<br>
+**2023**<br>
 - **A quality-of-experience database for adaptive omnidirectional video streaming**<br>
 **Xuelin Liu**, Jiebin Yan, Zheng Wan, Yuming Fang, Zhou Wang<br>
 **IEEE Journal of Selected Topics in Signal Processing**, 2023.<br>
@@ -71,25 +71,25 @@ Jiebin Yan, Yuming Fang, **Xuelin Liu**, Yiru Yao, Xiangjie Sui<br>
 **Chinese Journal of Computers (CJC)-计算机学报**, 2023.<br>
 [paper]<be>
 
-**<div align='center'>2022</div>**<br>
+**2022**<br>
 - **Survey on image quality assessment from the perspective of distortion**<br>
 Jiebin Yan, Yuming Fang, **Xuelin Liu**<br>
 **Journal of Image and Graphics (JIG)-中国图象图形学报**, 2022.<br>
 [paper]<be>
 
-**<div align='center'>2021</div>**<br>
+**2021**<br>
 - **Progress in no-reference image quality assessment: A survey**<br>
 Yuming Fang, Xiangjie Sui, Jiebin Yan, **Xuelin Liu**, Liping Huang<br>
 **Journal of Image and Graphics (JIG)-中国图象图形学报**, 2021.<br>
 [paper] [code] [project]<be>
 
-**<div align='center'>2020</div>**<br>
+**2020**<br>
 - **Blind quality assessment for tone-mapped images based on local and global features**<br>
 **Xuelin Liu**, Yuming Fang, Rengang Du, Yifan Zuo, Wenying Wen<br>
 **Information Sciences (INS)**, 2020.<br>
 [paper] [code] [project]<be>
 
-**<div align='center'>2019</div>**<br>
+**2019**<br>
 - **Learning a no-reference quality predictor of stereoscopic images by visual binocular properties**<br>
 Yuming Fang, Jiebin Yan, Jiheng Wang, **Xuelin Liu**, Guantao Zhai, Patrick Le Callet<br>
 **IEEE Access**, 2019.<br>
@@ -100,7 +100,7 @@ Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang<br>
 [paper] [code] [project]
 
 **<em>3. Conference Papers</em>** <br>
-**<div align='center'>2024</div>**<br>
+**2024**<br>
 - **Quality of experience of viewport adaptive omnidirectional video streaming**<br>
 **Xuelin Liu**, Haoyun Zhang, Jiebin Yan, Hao Zhang, Yuming, Fang, Shiqi Wang<br>
 **IEEE International Conference on Image Processing (ICIP)**, 2024.<br>
@@ -110,13 +110,13 @@ Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang<br>
 **IEEE International Symposium on Circuits and Systems (ISCAS) (Poster)**, 2024.<br>
 [paper] [code] [project] [slides] [video]<be>
 
-**<div align='center'>2023</div>**<br>
+**2023**<br>
 - **Collaborative edge caching for panoramic video streaming**<br>
 Zheng Wan, Mingyang Ma, **Xuelin Liu**<br>
 - **IEEE International Performance Computing and Communications Conference Workshop (IPCCC) (Poster)**, 2023.<br>
 [paper] [code] [project] [slides] [video]<be>
 
-**<div align='center'>2022</div>**<br>
+**2022**<br>
 - **Perceptual quality assessment of omnidirectional images** <br>
 Yuming Fang, Liping Huang, Jiebin Yan, **Xuelin Liu**, Yang Liu <br>
 **AAAI Conference on Artificial Intelligence (AAAI) (Oral)**, 2022. <br>
@@ -126,7 +126,7 @@ Dengxiang Wang, Jiebin Yan, **Xuelin Liu**, Yifan Zuo <br>
 **IEEE International Workshop on Multimedia Signal Processing (MMSP) (Poster)**, 2022. <br>
 [paper] [code] [project] [slides] [video] <be>
 
-**<div align='center'>2019</div>**<br>
+**2019**<br>
 - **Blind image quality assessment by learning from multiple annotators** <br>
 Kede Ma, **Xuelin Liu**, Yuming Fang, Eero P. Simoncelli <br>
 **IEEE International Conference on Image Processing (ICIP) (Oral)**, 2019. <br>
