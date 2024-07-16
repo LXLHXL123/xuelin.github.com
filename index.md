@@ -18,7 +18,7 @@ My primary research interest lies in image and video processing, including:
 - multimedia communications
 
 ### Publications (+: Co-first Author)
-<hr>
+---
 **<em>1. Preprints</em>**<be>
 - **FakeBench: Uncover the Achilles' hells of fake images with large multimodal models**<br>
 Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>
