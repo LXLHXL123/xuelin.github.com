@@ -1,7 +1,7 @@
 # Xuelin Liu (刘学林)
 ![Image](/person.jpg)
 
-I am a PhD student working with Professor **Yuming Fang** and **Zheng Wan** at Jiangxi University of Finance and Economics (JUFE). I got my masters and bachelors at JUFE, where I was supervised by Prof. Yuming Fang at JUFE and Prof. Kede Ma at City University of Hong Kong (CityU). The Lab is MCAQA. From May 2023 to now, I am a Visiting Phd Student with the City University of Hong Kong and my supervisor is Prof. **Shiqi Wang**.
+I am a PhD student working with Professor **Yuming Fang** and **Zheng Wan** at Jiangxi University of Finance and Economics (JUFE). I got my masters and bachelors at JUFE, supervised by Prof. Yuming Fang at JUFE and Prof. **Kede Ma** at City University of Hong Kong (CityU). The Lab is multimedia content analysis and quality assessment (MCAQA). From May 2023 to June 2024, I was a Visiting PhD Student at the City University of Hong Kong and my supervisor was Prof. **Shiqi Wang**.
 
 #### [Home](https://lxlhxl123.github.io/xuelin.github.com/) / [OCID](https://orcid.org/my-orcid?orcid=0000-0001-5380-8343) / [Google Scholar](https://scholar.google.com/citations?user=fJNsU58AAAAJ&hl=zh-CNd) / [DBLP](https://dblp.uni-trier.de/pid/210/8987.html) / [Github](https://github.com/LXLHXL123) / [ResearchGate](https://www.researchgate.net/profile/Xuelin-Liu-2) / [CV](https://github.com/LXLHXL123/xuelin.github.com/edit/gh-pages/index.md) / [CSDN](https://blog.csdn.net/lxlhexl)
 
@@ -33,8 +33,6 @@ Hanwei Zhu, Xiangjie Sui, Baoliang Chen, **Xuelin Liu**, Peilin Chen, Yuming Fan
 Jiebin Yan, Yuming Fang, **Xuelin Liu**, Wenhui Jiang, Yang Liu<br>
 - **Max360IQ: Blind omnidirectional image quality assessment with multi-axis attention**<br>
 Jiebin Yan, Ziwen Tan, Yuming Fang, Jiale Rao, **Xuelin Liu**<br>
-- **Quality of experience of viewport adaptive omnidirectional video streaming**<br>
-**Xuelin Liu**, Haoyun Zhang, Jiebin Yan, Hao Zhang, Yuming, Fang, Shiqi Wang<br>
 - **Online video quality assessment: From spatial to temporal sampling**<br>
 Jiebin Yan, Lei Wu, **Xuelin Liu**, Yuming Fang, Xue Xia<br>
 
@@ -85,6 +83,10 @@ Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang<br>
 
 **<em>3. Conference Papers</em>** <br>
 **2024**<br>
+- **Quality of experience of viewport adaptive omnidirectional video streaming**<br>
+**Xuelin Liu**, Haoyun Zhang, Jiebin Yan, Hao Zhang, Yuming, Fang, Shiqi Wang<br>
+**IEEE International Conference on Image Processing (ICIP)**, 2024.<br>
+[paper] [code] [project] [slides] [video]<be>
 - **Blind quality assessment of panoramic images based on multiple viewport sequences**<br>
 **Xuelin Liu**, Jiebin Yan, Zheng Wan, Yuming Fang, Hantao Liu<br>
 **IEEE International Symposium on Circuits and Systems (ISCAS) (Poster)**, 2024.<br>
