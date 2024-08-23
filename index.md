@@ -22,6 +22,8 @@ My primary research interest lies in image and video processing, including:
 ### News
 ---
 <ul>
+<li><p>08/2024, ⭐ One paper is accepted by IEEE TCSVT!</p>
+</li>
 <li><p>07/2024, ⭐ One paper is accepted by IEEE TCSVT!</p>
 </li>
 <li><p>06/2024, ⭐ One paper is accepted by IEEE ICIP!</p>
@@ -43,17 +45,21 @@ Jiebin Yan, Jiale Rao, **Xuelin Liu**, Yuming Fang, Yifan Zuo, Weide Liu<br>
 Xiangjie Sui, Hanwei Zhu, **Xuelin Liu**, Yuming Fang, Shiqi Wang, Zhou Wang<br>
 - **Blind image quality assessment by learning and adapting from multiple annotators**<br>
 Zhihua Wang<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Keshuo Xu, Yuming Fang, Qiuping Jiang<br>
-- **2AFC prompting of large multimodal models for image quality assessment**<br>
-Hanwei Zhu, Xiangjie Sui, Baoliang Chen, **Xuelin Liu**, Peilin Chen, Yuming Fang, Shiqi Wang<br>
 - **Opinion-unaware blind stereoscopic image quality assessment: A comprehensive study**<br>
 Jiebin Yan, Yuming Fang, **Xuelin Liu**, Wenhui Jiang, Yang Liu<br>
 - **Max360IQ: Blind omnidirectional image quality assessment with multi-axis attention**<br>
 Jiebin Yan, Ziwen Tan, Yuming Fang, Jiale Rao, **Xuelin Liu**<br>
-- **Online video quality assessment: From spatial to temporal sampling**<br>
-Jiebin Yan, Lei Wu, **Xuelin Liu**, Yuming Fang, Xue Xia<br>
 
 **<em>2. Journal Papers</em>** <br>
 **2024**<br>
+- **Video quality assessment for online processing: From spatial to temporal sampling**<br>
+Jiebin Yan, Lei Wu, Yuming Fang, **Xuelin Liu**, Xue Xia, Weide Liu<br>
+**IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2024.<br>
+[paper]<br>
+- **2AFC prompting of large multimodal models for image quality assessment**<br>
+Hanwei Zhu, Xiangjie Sui, Baoliang Chen, **Xuelin Liu**, Peilin Chen, Yuming Fang, Shiqi Wang<br>
+**IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2024.<br>
+[paper]<br>
 - **Viewport-independent and deformation-unaware no-reference omnidirectional image quality assessment**<br>
 Jiebin Yan, Ziwen Tan, Kangchen Wu, **Xuelin Liu**, Yuming Fang<br>
 **Journal of Image and Graphics (JIG)-中国图象图形学报**, 2024.<br>
