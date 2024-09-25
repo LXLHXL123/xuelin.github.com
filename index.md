@@ -22,6 +22,8 @@ My primary research interest lies in image and video processing, including:
 ### News
 ---
 <ul>
+<li><p>09/2024, ⭐ One paper is accepted by IEEE TMM!</p>
+</li>
 <li><p>08/2024, ⭐ One paper is accepted by IEEE TCSVT!</p>
 </li>
 <li><p>07/2024, ⭐ One paper is accepted by IEEE TCSVT!</p>
