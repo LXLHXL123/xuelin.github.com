@@ -41,8 +41,6 @@ My primary research interest lies in image and video processing, including:
 **<em>1. Preprints</em>**<be>
 - **FakeBench: Uncover the Achilles' hells of fake images with large multimodal models**<br>
 Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>
-- **Subjective and objective quality assessment of non-uniformly distorted omnidirectional images**<br>
-Jiebin Yan, Jiale Rao, **Xuelin Liu**, Yuming Fang, Yifan Zuo, Weide Liu<br>
 - **Perceptual quality assessment of 360 images based on generative scanpath representation**<br>
 Xiangjie Sui, Hanwei Zhu, **Xuelin Liu**, Yuming Fang, Shiqi Wang, Zhou Wang<br>
 - **Blind image quality assessment by learning and adapting from multiple annotators**<br>
@@ -54,6 +52,10 @@ Jiebin Yan, Ziwen Tan, Yuming Fang, Jiale Rao, **Xuelin Liu**<br>
 
 **<em>2. Journal Papers</em>** <br>
 **2024**<br>
+- **Subjective and objective quality assessment of non-uniformly distorted omnidirectional images**<br>
+Jiebin Yan, Jiale Rao, **Xuelin Liu**, Yuming Fang, Yifan Zuo, Weide Liu<br>
+**IEEE Transactions on Multimedia (TMM)**, 2024.<br>
+[paper]<br>
 - **Video quality assessment for online processing: From spatial to temporal sampling**<br>
 Jiebin Yan, Lei Wu, Yuming Fang, **Xuelin Liu**, Xue Xia, Weide Liu<br>
 **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2024.<br>
