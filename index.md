@@ -51,6 +51,8 @@ Zhihua Wang<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Keshuo Xu, Yuming Fang, Qiu
 Jiebin Yan, Yuming Fang, **Xuelin Liu**, Wenhui Jiang, Yang Liu<br>
 - **Max360IQ: Blind omnidirectional image quality assessment with multi-axis attention**<br>
 Jiebin Yan, Ziwen Tan, Yuming Fang, Jiale Rao, **Xuelin Liu**<br>
+- **EBi360: An edge-assisted viewport prediction method for 360° video based on BiLSTM**<br>
+Zheng Wan, Yueqin Hu, Yu Zhou, **Xuelin Liu**, Shenglu Zhao<br>
 
 **<em>2. Journal Papers</em>** <br>
 **2024**<br>
