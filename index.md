@@ -150,7 +150,7 @@ Kede Ma, **Xuelin Liu**, Yuming Fang, Eero P. Simoncelli <br>
 
 ### Academic Services
 ---
-- To be continued...
+- Reviewer or Secondary Reviewer of TIP, TMM, TCSVT, CVPR, ICCV, ECCV, ICME, ICIP, ICPR, PRCV.
 
 ### Professional Activities
 ---
