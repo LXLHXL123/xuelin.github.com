@@ -22,6 +22,8 @@ My primary research interest lies in image and video processing, including:
 ### News
 ---
 <ul>
+<li><p>10/2024, ⭐ One paper is accepted by IEEE ICVRV!</p>
+</li>
 <li><p>09/2024, ⭐ One paper is accepted by IEEE TMM!</p>
 </li>
 <li><p>08/2024, ⭐ One paper is accepted by IEEE TCSVT!</p>
@@ -70,13 +72,13 @@ Jiebin Yan, Ziwen Tan, Kangchen Wu, **Xuelin Liu**, Yuming Fang<br>
 [paper]<br>
 - **Perceptual quality assessment of omnidirectional images: A benchmark and computational model**<br>
 **Xuelin Liu**, Jiebin Yan, Liping Huang, Yuming Fang, Zheng Wan, Yang Liu<br>
-**ACM Transactions on Multimedia Computing, Communications, and Applications**, 2024.<br>
+**ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)**, 2024.<br>
 [paper] [code] [project]<br>
 
 **2023**<br>
 - **A quality-of-experience database for adaptive omnidirectional video streaming**<br>
 **Xuelin Liu**, Jiebin Yan, Zheng Wan, Yuming Fang, Zhou Wang<br>
-**IEEE Journal of Selected Topics in Signal Processing**, 2023.<br>
+**IEEE Journal of Selected Topics in Signal Processing (JSTSP)**, 2023.<br>
 [paper] [code] [project]<br>
 - **A survey on recent advances in video quality assessment**<br>
 Jiebin Yan, Yuming Fang, **Xuelin Liu**, Yiru Yao, Xiangjie Sui<br>
@@ -115,7 +117,7 @@ Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang<br>
 **2024**<br>
 - **Quality of experience of viewport adaptive omnidirectional video streaming**<br>
 **Xuelin Liu**, Haoyun Zhang, Jiebin Yan, Hao Zhang, Yuming, Fang, Shiqi Wang<br>
-**IEEE International Conference on Image Processing (ICIP)**, 2024.<br>
+**IEEE International Conference on Image Processing (ICIP) (Oral)**, 2024.<br>
 [paper] [code] [project] [slides] [video]<be>
 - **Blind quality assessment of panoramic images based on multiple viewport sequences**<br>
 **Xuelin Liu**, Jiebin Yan, Zheng Wan, Yuming Fang, Hantao Liu<br>
