@@ -49,10 +49,6 @@ Xiangjie Sui, Hanwei Zhu, **Xuelin Liu**, Yuming Fang, Shiqi Wang, Zhou Wang<br>
 Zhihua Wang<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Keshuo Xu, Yuming Fang, Qiuping Jiang<br>
 - **Opinion-unaware blind stereoscopic image quality assessment: A comprehensive study**<br>
 Jiebin Yan, Yuming Fang, **Xuelin Liu**, Wenhui Jiang, Yang Liu<br>
-- **Max360IQ: Blind omnidirectional image quality assessment with multi-axis attention**<br>
-Jiebin Yan, Ziwen Tan, Yuming Fang, Jiale Rao, **Xuelin Liu**<br>
-- **EBi360: An edge-assisted viewport prediction method for 360° video based on BiLSTM**<br>
-Zheng Wan, Yueqin Hu, Yu Zhou, **Xuelin Liu**, Shenglu Zhao<br>
 
 **<em>2. Journal Papers</em>** <br>
 **2024**<br>
@@ -124,6 +120,10 @@ Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang<br>
 - **Blind quality assessment of panoramic images based on multiple viewport sequences**<br>
 **Xuelin Liu**, Jiebin Yan, Zheng Wan, Yuming Fang, Hantao Liu<br>
 **IEEE International Symposium on Circuits and Systems (ISCAS) (Poster)**, 2024.<br>
+[paper] [code] [project] [slides] [video]<be>
+- **EBi360: An edge-assisted viewport prediction method for 360° video based on BiLSTM**<br>
+Zheng Wan, Yueqin Hu, Yu Zhou, **Xuelin Liu**, Shenglu Zhao<br>
+**IEEE International Conference on Virtual Reality and Visualization (ICVRV) (Oral)**, 2024.<br>
 [paper] [code] [project] [slides] [video]<be>
 
 **2023**<br>
