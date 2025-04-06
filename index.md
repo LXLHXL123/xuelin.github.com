@@ -59,11 +59,17 @@ My primary research interest lies in image and video processing, including:
 <!--Jiebin Yan, Yuming Fang, **Xuelin Liu**, Wenhui Jiang, Yang Liu<br>-->
 
 **<em>2. Journal Papers</em>** <br>
-**2024**<br>
+**2025**<br>
+- **Viewport-independent blind quality assessment of AI-generated omnidirectional images via vision-language correspondence**<br>
+**Xuelin Liu**, Jiebin Yan, Chenyi Lai, Yang Li, Yuming Fang<br>
+**IEEE Signal Processing Letters (SPL)**, 2025.<br>
+[paper]<br>
 - **Subjective and objective quality assessment of non-uniformly distorted omnidirectional images**<br>
 Jiebin Yan, Jiale Rao, **Xuelin Liu**, Yuming Fang, Yifan Zuo, Weide Liu<br>
-**IEEE Transactions on Multimedia (TMM)**, 2024.<br>
+**IEEE Transactions on Multimedia (TMM)**, 2025.<br>
 [paper]<br>
+
+**2024**<br>
 - **Video quality assessment for online processing: From spatial to temporal sampling**<br>
 Jiebin Yan, Lei Wu, Yuming Fang, **Xuelin Liu**, Xue Xia, Weide Liu<br>
 **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2024.<br>
