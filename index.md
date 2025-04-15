@@ -22,6 +22,8 @@ My primary research interest lies in image and video processing, including:
 ### News
 ---
 <ul>
+<li><p>04/2025, ⭐ One paper is accepted by JVCI!</p>
+</li>
 <li><p>03/2025, ⭐ One paper is accepted by IEEE SPL!</p>
 </li>
 <li><p>10/2024, ⭐ One paper is accepted by IEEE ICVRV!</p>
