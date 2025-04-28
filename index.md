@@ -62,6 +62,10 @@ My primary research interest lies in image and video processing, including:
 
 **<em>2. Journal Papers</em>** <br>
 **2025**<br>
+- **Opinion-unaware blind quality assessment of AI-generated omnidirectional images based on deep feature statistics**<br>
+**Xuelin Liu**, Jiebin Yan, Yuming Fang, Jingwen Hou<br>g
+**Journal of Visual Communication and Image Representation (JVCI)**, 2025.<br>
+[paper]<br>
 - **Viewport-independent blind quality assessment of AI-generated omnidirectional images via vision-language correspondence**<br>
 **Xuelin Liu**, Jiebin Yan, Chenyi Lai, Yang Li, Yuming Fang<br>
 **IEEE Signal Processing Letters (SPL)**, 2025.<br>
