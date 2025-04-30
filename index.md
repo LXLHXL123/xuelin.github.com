@@ -57,8 +57,6 @@ My primary research interest lies in image and video processing, including:
 <!--Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>-->
 - **Perceptual quality assessment of 360 images based on generative scanpath representation**<br>
 <!--Xiangjie Sui, Hanwei Zhu, **Xuelin Liu**, Yuming Fang, Shiqi Wang, Zhou Wang<br>-->
-- **Blind image quality assessment by learning and adapting from multiple annotators**<br>
-<!--Zhihua Wang<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Keshuo Xu, Yuming Fang, Qiuping Jiang<br>-->
 - **Opinion-unaware blind stereoscopic image quality assessment: A comprehensive study**<br>
 <!--Jiebin Yan, Yuming Fang, **Xuelin Liu**, Wenhui Jiang, Yang Liu<br>-->
 
@@ -134,6 +132,11 @@ Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang<br>
 [paper] [code] [project]
 
 **<em>3. Conference Papers</em>** <br>
+**2025**<br>
+- **Deep opinion-unaware blind image quality assessment by learning and adapting from multiple annotators**<br>
+**International Joint Conferences on Artificial Intelligence (IJCAI)**, 2025.<br>
+<!--Zhihua Wang<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Jiebin Yan, Chao Huang, Jie Wen<br>-->
+
 **2024**<br>
 - **Quality of experience of viewport adaptive omnidirectional video streaming**<br>
 **Xuelin Liu**, Haoyun Zhang, Jiebin Yan, Hao Zhang, Yuming, Fang, Shiqi Wang<br>
