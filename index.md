@@ -135,7 +135,7 @@ Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang<br>
 **2025**<br>
 - **Deep opinion-unaware blind image quality assessment by learning and adapting from multiple annotators**<br>
 **International Joint Conferences on Artificial Intelligence (IJCAI)**, 2025.<br>
-<!--Zhihua Wang<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Jiebin Yan, Chao Huang, Jie Wen<br>-->
+Zhihua Wang<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Jiebin Yan, Chao Huang, Jie Wen<br>
 
 **2024**<br>
 - **Quality of experience of viewport adaptive omnidirectional video streaming**<br>
