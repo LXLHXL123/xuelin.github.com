@@ -24,6 +24,8 @@ My primary research interest lies in image and video processing, including:
 <ul>
 <li><p>04/2025, ⭐ One paper is accepted by IJCAI!</p>
 </li>
+<li><p>04/2025, ⭐ One paper is accepted by PR!</p>
+</li>
 <li><p>04/2025, ⭐ One paper is accepted by JVCI!</p>
 </li>
 <li><p>03/2025, ⭐ One paper is accepted by IEEE SPL!</p>
@@ -57,11 +59,13 @@ My primary research interest lies in image and video processing, including:
 <!--Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>-->
 - **Perceptual quality assessment of 360 images based on generative scanpath representation**<br>
 <!--Xiangjie Sui, Hanwei Zhu, **Xuelin Liu**, Yuming Fang, Shiqi Wang, Zhou Wang<br>-->
-- **Opinion-unaware blind stereoscopic image quality assessment: A comprehensive study**<br>
-<!--Jiebin Yan, Yuming Fang, **Xuelin Liu**, Wenhui Jiang, Yang Liu<br>-->
 
 **<em>2. Journal Papers</em>** <br>
 **2025**<br>
+- **Opinion-unaware blind stereoscopic image quality assessment: A comprehensive study**<br>
+Jiebin Yan, Yuming Fang, **Xuelin Liu**, Wenhui Jiang, Yang Liu<br>
+**Pattern Recognition (PR)**, 2025.<br>
+[paper]<br>
 - **Opinion-unaware blind quality assessment of AI-generated omnidirectional images based on deep feature statistics**<br>
 **Xuelin Liu**, Jiebin Yan, Yuming Fang, Jingwen Hou<br>
 **Journal of Visual Communication and Image Representation (JVCI)**, 2025.<br>
@@ -136,6 +140,7 @@ Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang<br>
 - **Deep opinion-unaware blind image quality assessment by learning and adapting from multiple annotators**<br>
 **International Joint Conferences on Artificial Intelligence (IJCAI)**, 2025.<br>
 Zhihua Wang<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Jiebin Yan, Chao Huang, Jie Wen<br>
+[paper] [code] [project] [slides] [video]<be>
 
 **2024**<br>
 - **Quality of experience of viewport adaptive omnidirectional video streaming**<br>
