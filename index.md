@@ -62,7 +62,7 @@ My primary research interest lies in image and video processing, including:
 
 **<em>2. Journal Papers</em>** <br>
 **2025**<br>
-- **Perceptual quality assessment of 360 images based on generative scanpath representation**<br>
+- **Perceptual quality assessment of 360° images based on generative scanpath representation**<br>
 Xiangjie Sui, Hanwei Zhu, **Xuelin Liu**, Yuming Fang, Shiqi Wang, Zhou Wang<br>
 **IEEE Transactions on Image Processing (TIP)**, 2025.<br>
 [paper]<br>
