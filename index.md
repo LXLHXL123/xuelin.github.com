@@ -22,6 +22,8 @@ My primary research interest lies in image and video processing, including:
 ### News
 ---
 <ul>
+<li><p>06/2025, ⭐ One paper is accepted by IEEE TIP!</p>
+</li>
 <li><p>04/2025, ⭐ One paper is accepted by IJCAI!</p>
 </li>
 <li><p>04/2025, ⭐ One paper is accepted by PR!</p>
@@ -57,11 +59,13 @@ My primary research interest lies in image and video processing, including:
 <!--Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>-->
 - **FakeBench: Uncover the Achilles' hells of fake images with large multimodal models**<br>
 <!--Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>-->
-- **Perceptual quality assessment of 360 images based on generative scanpath representation**<br>
-<!--Xiangjie Sui, Hanwei Zhu, **Xuelin Liu**, Yuming Fang, Shiqi Wang, Zhou Wang<br>-->
 
 **<em>2. Journal Papers</em>** <br>
 **2025**<br>
+- **Perceptual quality assessment of 360 images based on generative scanpath representation**<br>
+Xiangjie Sui, Hanwei Zhu, **Xuelin Liu**, Yuming Fang, Shiqi Wang, Zhou Wang<br>
+**IEEE Transactions on Image Processing (TIP)**, 2025.<br>
+[paper]<br>
 - **Opinion-unaware blind stereoscopic image quality assessment: A comprehensive study**<br>
 Jiebin Yan, Yuming Fang, **Xuelin Liu**, Wenhui Jiang, Yang Liu<br>
 **Pattern Recognition (PR)**, 2025.<br>
