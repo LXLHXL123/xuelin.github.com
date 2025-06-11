@@ -3,7 +3,7 @@
 
 I am currently a Post-Doctoral Fellow with Jiangxi University of Finance and Economics (JUFE). I received the B.S., MA.Sc, and Ph.D. degrees from the JUFE, Nanchang, Jiangxi, China, in 2017, 2020, and 2024, respectively. My supervisors were Prof. **Yuming Fang** and **Zheng Wan** at JUFE and Prof. **Kede Ma** at City University of Hong Kong (CityU). The Lab is multimedia content analysis and quality assessment (MCAQA). From May 2023 to June 2024, I was a Visiting PhD Student at the City University of Hong Kong and my supervisor was Prof. **Shiqi Wang**.
 
-#### [Home](https://lxlhxl123.github.io/xuelin.github.com/) / [OCID](https://orcid.org/my-orcid?orcid=0000-0001-5380-8343) / [Google Scholar](https://scholar.google.com/citations?user=fJNsU58AAAAJ&hl=zh-CNd) / [DBLP](https://dblp.uni-trier.de/pid/210/8987.html) / [Github](https://github.com/LXLHXL123) / [ResearchGate](https://www.researchgate.net/profile/Xuelin-Liu-2) / [CV](https://github.com/LXLHXL123/xuelin.github.com/edit/gh-pages/index.md) / [CSDN](https://blog.csdn.net/lxlhexl)
+#### [Home](https://lxlhxl123.github.io/xuelin.github.com/) / [OCID](https://orcid.org/my-orcid?orcid=0000-0001-5380-8343) / [Google Scholar](https://scholar.google.com/citations?user=fJNsU58AAAAJ&hl=zh-CNd) / [DBLP](https://dblp.uni-trier.de/pid/210/8987.html) / [Github](https://github.com/LXLHXL123) / [ResearchGate](https://www.researchgate.net/profile/Xuelin-Liu-2) / [CSDN](https://blog.csdn.net/lxlhexl)
 
 ### Email
 ---
