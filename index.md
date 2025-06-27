@@ -53,11 +53,11 @@ My primary research interest lies in image and video processing, including:
 **<em>1. Preprints</em>**<be>
 - **GCN and MADDPG-based two-tier distributed cache optimization for metaverse scenarios**<br>
 <!--Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>-->
-- **Distributed two-tire cache optimization in metaverse scenarios combing MADDPG and GCN**<br>
+- **Distributed two-tier cache optimization in metaverse scenarios combining MADDPG and GCN**<br>
 <!--Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>-->
 - **Distributed cache optimization for metaverse scenarios under 3d gaussian splatting rendering**<br>
 <!--Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>-->
-- **FakeBench: Uncover the Achilles' hells of fake images with large multimodal models**<br>
+- **FakeBench: Probing explainable fake image detection via large multimodal models**<br>
 <!--Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>-->
 
 **<em>2. Journal Papers</em>** <br>
