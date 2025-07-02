@@ -14,7 +14,7 @@ I am currently a Post-Doctoral Fellow with Jiangxi University of Finance and Eco
 ### Research
 ---
 My primary research interest lies in image and video processing, including: 
-- image/video quality assessment
+- visual quality assessment
 - quality of experience
 - computer vision
 - multimedia communications
