@@ -22,6 +22,8 @@ My primary research interest lies in image and video processing, including:
 ### News
 ---
 <ul>
+<li><p>06/2025, ⭐ One paper is accepted by IEEE HPCC!</p>
+</li>
 <li><p>06/2025, ⭐ One paper is accepted by IEEE TIP!</p>
 </li>
 <li><p>04/2025, ⭐ One paper is accepted by IJCAI!</p>
@@ -51,8 +53,6 @@ My primary research interest lies in image and video processing, including:
 ### Publications (+: Co-first Author)
 ---
 **<em>1. Preprints</em>**<be>
-- **GCN and MADDPG-based two-tier distributed cache optimization for metaverse scenarios**<br>
-<!--Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>-->
 - **Distributed two-tier cache optimization in metaverse scenarios combining MADDPG and GCN**<br>
 <!--Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>-->
 - **Distributed cache optimization for metaverse scenarios under 3d gaussian splatting rendering**<br>
@@ -141,6 +141,10 @@ Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang<br>
 
 **<em>3. Conference Papers</em>** <br>
 **2025**<br>
+- **GCN and MADDPG-based two-tier distributed cache optimization for metaverse scenarios**<br>
+**IEEE International Conferences on High Performance Computing and Communications (HPCC)**, 2025.<br>
+Shenglu Zhao, Zheng Wan, **Xuelin Liu**, Xiaogang Dong, Yifeng Tan, Yuming Fang<br>
+[paper] [code] [project] [slides] [video]<be>
 - **Deep opinion-unaware blind image quality assessment by learning and adapting from multiple annotators**<br>
 **International Joint Conferences on Artificial Intelligence (IJCAI)**, 2025.<br>
 Zhihua Wang<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Jiebin Yan, Chao Huang, Jie Wen<br>
