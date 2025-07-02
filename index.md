@@ -53,6 +53,8 @@ My primary research interest lies in image and video processing, including:
 ### Publications (+: Co-first Author)
 ---
 **<em>1. Preprints</em>**<be>
+- **Blind Omnidirectional Image Quality Assessment: Embracing the Magic Power of Multimodal Large Language Models**<br>
+<!--Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>-->
 - **Distributed two-tier cache optimization in metaverse scenarios combining MADDPG and GCN**<br>
 <!--Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>-->
 - **Distributed cache optimization for metaverse scenarios under 3d gaussian splatting rendering**<br>
