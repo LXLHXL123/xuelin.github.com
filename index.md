@@ -194,7 +194,14 @@ Kede Ma, **Xuelin Liu**, Yuming Fang, Eero P. Simoncelli <br>
 
 ### Academic Services
 ---
-- Reviewer or Secondary Reviewer of TIP, TMM, TCSVT, CVPR, ICCV, ECCV, IJCAI, ICME, ICIP, ICPR, PRCV.
+- Journal Reviewer
+  - IEEE Transactions on Image Processing (TIP)
+  - IEEE Transactions on Multimedia (TMM)
+  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- Conference Reviewer
+  - IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+  - International Conference on Computer Vision (ICCV)
+  - European Conference on Computer Vision (ECCV), IJCAI, ICME, ICIP, ICPR, PRCV.
 
 ### Professional Activities
 ---
