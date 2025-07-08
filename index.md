@@ -198,10 +198,19 @@ Kede Ma, **Xuelin Liu**, Yuming Fang, Eero P. Simoncelli <br>
   - IEEE Transactions on Image Processing (TIP)
   - IEEE Transactions on Multimedia (TMM)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+  - Neurocomputing
+  - Scientific Reports
+  - The Visual Computer
+  - Multimedia Systems
 - Conference Reviewer
   - IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
   - International Conference on Computer Vision (ICCV)
-  - European Conference on Computer Vision (ECCV), IJCAI, ICME, ICIP, ICPR, PRCV.
+  - European Conference on Computer Vision (ECCV)
+  - International Joint Conference on Artificial Intelligence (IJCAI)
+  - IEEE International Conference on Multimedia and Expo (ICME)
+  - IEEE International Conference on Image Processing (ICIP)
+  - International Conference on Pattern Recognition (ICPR)
+  - Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
 
 ### Professional Activities
 ---
