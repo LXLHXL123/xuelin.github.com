@@ -22,6 +22,8 @@ My primary research interest lies in image and video processing, including:
 ### News
 ---
 <ul>
+<li><p>07/2025, ⭐ One paper is accepted by IEEE TIFS!</p>
+</li>
 <li><p>07/2025, ⭐ One paper is accepted by IEEE TMM!</p>
 </li>
 <li><p>06/2025, ⭐ One paper is accepted by IEEE HPCC!</p>
@@ -59,11 +61,14 @@ My primary research interest lies in image and video processing, including:
 <!--Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>-->
 - **Distributed cache optimization for metaverse scenarios under 3d gaussian splatting rendering**<br>
 <!--Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>-->
-- **FakeBench: Probing explainable fake image detection via large multimodal models**<br>
-<!--Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>-->
+
 
 **<em>2. Journal Papers</em>** <br>
 **2025**<br>
+- **FakeBench: Probing explainable fake image detection via large multimodal models**<br>
+Yixuan Li, **Xuelin Liu**, Xiaoyang Wang, Bu Sung Lee, Shiqi Wang, Anderson Rocha, Weisi Lin<br>
+**IEEE Transactions on Information Forensics and Security (TIFS)**, 2025.<br>
+[paper]<br>
 - **Distributed two-tier cache optimization in metaverse scenarios combining MADDPG and GCN**<br>
 Zheng Wan, Shenglu Zhao, Xiaogang Dong, **Xuelin Liu**, Yifeng Tan, Yuming Fang<br>
 **IEEE Transactions on Multimedia (TMM)**, 2025.<br>
