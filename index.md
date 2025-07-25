@@ -1,7 +1,7 @@
 # Xuelin Liu (刘学林)
 ![Image](/person.jpg)
 
-I am currently a Post-Doctoral Fellow with Jiangxi University of Finance and Economics (JUFE). I received the B.S., MA.Sc, and Ph.D. degrees from the JUFE, Nanchang, Jiangxi, China, in 2017, 2020, and 2024, respectively. My supervisors were Prof. **Yuming Fang** and **Zheng Wan** at JUFE and Prof. **Kede Ma** at City University of Hong Kong (CityU). The Lab is multimedia content analysis and quality assessment (MCAQA). From May 2023 to June 2024, I was a Visiting PhD Student at the City University of Hong Kong and my supervisor was Prof. **Shiqi Wang**.
+I am currently a Post-Doctoral Fellow with Jiangxi University of Finance and Economics (JUFE). I received the B.S., MA.Sc, and Ph.D. degrees from the JUFE, Nanchang, Jiangxi, China, in 2017, 2020, and 2024, respectively. My supervisors were Prof. **[Yuming Fang](https://sites.google.com/site/leofangyuming/)** and **Zheng Wan** at JUFE and Prof. **Kede Ma** at City University of Hong Kong (CityU). The Lab is multimedia content analysis and quality assessment (MCAQA). From May 2023 to June 2024, I was a Visiting PhD Student at the City University of Hong Kong and my supervisor was Prof. **Shiqi Wang**.
 
 #### [Home](https://lxlhxl123.github.io/xuelin.github.com/) / [OCID](https://orcid.org/my-orcid?orcid=0000-0001-5380-8343) / [Google Scholar](https://scholar.google.com/citations?user=fJNsU58AAAAJ&hl=zh-CNd) / [DBLP](https://dblp.uni-trier.de/pid/210/8987.html) / [Github](https://github.com/LXLHXL123) / [ResearchGate](https://www.researchgate.net/profile/Xuelin-Liu-2) / [CSDN](https://blog.csdn.net/lxlhexl)
 
@@ -80,79 +80,79 @@ Zheng Wan, Shenglu Zhao, Xiaogang Dong, **Xuelin Liu**, Yifeng Tan, Yuming Fang<
 - **Perceptual quality assessment of 360° images based on generative scanpath representation**<br>
 Xiangjie Sui, Hanwei Zhu, **Xuelin Liu**, Yuming Fang, Shiqi Wang, Zhou Wang<br>
 **IEEE Transactions on Image Processing (TIP)**, 2025.<br>
-[paper]<br>
+[paper](https://ieeexplore.ieee.org/document/11080124)<br>
 - **Opinion-unaware blind stereoscopic image quality assessment: A comprehensive study**<br>
 Jiebin Yan, Yuming Fang, **Xuelin Liu**, Wenhui Jiang, Yang Liu<br>
 **Pattern Recognition (PR)**, 2025.<br>
-[paper]<br>
+[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325004091)<br>
 - **Opinion-unaware blind quality assessment of AI-generated omnidirectional images based on deep feature statistics**<br>
 **Xuelin Liu**, Jiebin Yan, Yuming Fang, Jingwen Hou<br>
 **Journal of Visual Communication and Image Representation (JVCI)**, 2025.<br>
-[paper]<br>
+[paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320325000756)<br>
 - **Viewport-independent blind quality assessment of AI-generated omnidirectional images via vision-language correspondence**<br>
 **Xuelin Liu**, Jiebin Yan, Chenyi Lai, Yang Li, Yuming Fang<br>
 **IEEE Signal Processing Letters (SPL)**, 2025.<br>
-[paper]<br>
+[paper](https://ieeexplore.ieee.org/document/10947292)<br>
 - **Subjective and objective quality assessment of non-uniformly distorted omnidirectional images**<br>
 Jiebin Yan, Jiale Rao, **Xuelin Liu**, Yuming Fang, Yifan Zuo, Weide Liu<br>
 **IEEE Transactions on Multimedia (TMM)**, 2025.<br>
-[paper]<br>
+[paper](https://ieeexplore.ieee.org/document/10855437)<br>
 
 **2024**<br>
 - **Video quality assessment for online processing: From spatial to temporal sampling**<br>
 Jiebin Yan, Lei Wu, Yuming Fang, **Xuelin Liu**, Xue Xia, Weide Liu<br>
 **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2024.<br>
-[paper]<br>
+[paper](https://ieeexplore.ieee.org/document/10648736)<br>
 - **2AFC prompting of large multimodal models for image quality assessment**<br>
 Hanwei Zhu, Xiangjie Sui, Baoliang Chen, **Xuelin Liu**, Peilin Chen, Yuming Fang, Shiqi Wang<br>
 **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2024.<br>
-[paper]<br>
+[paper](https://ieeexplore.ieee.org/document/10613913)<br>
 - **Viewport-independent and deformation-unaware no-reference omnidirectional image quality assessment**<br>
 Jiebin Yan, Ziwen Tan, Kangchen Wu, **Xuelin Liu**, Yuming Fang<br>
 **Journal of Image and Graphics (JIG)-中国图象图形学报**, 2024.<br>
-[paper]<br>
+[paper](https://www.cjig.cn/en/article/doi/10.11834/jig.240188/)<br>
 - **Perceptual quality assessment of omnidirectional images: A benchmark and computational model**<br>
 **Xuelin Liu**, Jiebin Yan, Liping Huang, Yuming Fang, Zheng Wan, Yang Liu<br>
 **ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)**, 2024.<br>
-[paper] [code] [project]<br>
+[paper](https://dl.acm.org/doi/abs/10.1145/3640344) [code] [project]<br>
 
 **2023**<br>
 - **A quality-of-experience database for adaptive omnidirectional video streaming**<br>
 **Xuelin Liu**, Jiebin Yan, Zheng Wan, Yuming Fang, Zhou Wang<br>
 **IEEE Journal of Selected Topics in Signal Processing (JSTSP)**, 2023.<br>
-[paper] [code] [project]<br>
+[paper](https://ieeexplore.ieee.org/document/10198220) [project]<br>
 - **A survey on recent advances in video quality assessment**<br>
 Jiebin Yan, Yuming Fang, **Xuelin Liu**, Yiru Yao, Xiangjie Sui<br>
 **Chinese Journal of Computers (CJC)-计算机学报**, 2023.<br>
-[paper]<be>
+[paper](http://cjc.ict.ac.cn/online/onlinepaper/yjb-2023928154947.pdf)<be>
 
 **2022**<br>
-- **Survey on image quality assessment from the perspective of distortion**<br>
+- **The review of distortion-related image quality assessment**<br>
 Jiebin Yan, Yuming Fang, **Xuelin Liu**<br>
 **Journal of Image and Graphics (JIG)-中国图象图形学报**, 2022.<br>
-[paper]<be>
+[paper](https://www.cjig.cn/en/article/doi/10.11834/jig.210790/)<be>
 
 **2021**<br>
 - **Progress in no-reference image quality assessment: A survey**<br>
 Yuming Fang, Xiangjie Sui, Jiebin Yan, **Xuelin Liu**, Liping Huang<br>
 **Journal of Image and Graphics (JIG)-中国图象图形学报**, 2021.<br>
-[paper] [code] [project]<be>
+[paper](https://www.cjig.cn/en/article/doi/10.11834/jig.200274/)<be>
 
 **2020**<br>
 - **Blind quality assessment for tone-mapped images based on local and global features**<br>
 **Xuelin Liu**, Yuming Fang, Rengang Du, Yifan Zuo, Wenying Wen<br>
 **Information Sciences (INS)**, 2020.<br>
-[paper] [code] [project]<be>
+[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025520302474) [code] [project]<be>
 
 **2019**<br>
 - **Learning a no-reference quality predictor of stereoscopic images by visual binocular properties**<br>
 Yuming Fang, Jiebin Yan, Jiheng Wang, **Xuelin Liu**, Guantao Zhai, Patrick Le Callet<br>
 **IEEE Access**, 2019.<br>
-[paper] [code] [project]<br>
+[paper](https://ieeexplore.ieee.org/document/8836464) [code] [project]<br>
 - **Stereoscopic image quality assessment by deep convolutional neural network**<br>
 Yuming Fang, Jiebin Yan, **Xuelin Liu**, Jiheng Wang<br>
 **Journal of Visual Communication and Image Representation (JVCIR)**, 2019.<br>
-[paper] [code] [project]
+[paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320318303328) [code] [project]
 
 **<em>3. Conference Papers</em>** <br>
 **2025**<br>
@@ -169,31 +169,31 @@ Zhihua Wang<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Jiebin Yan, Chao Huang, Jie
 - **Quality of experience of viewport adaptive omnidirectional video streaming**<br>
 **Xuelin Liu**, Haoyun Zhang, Jiebin Yan, Hao Zhang, Yuming, Fang, Shiqi Wang<br>
 **IEEE International Conference on Image Processing (ICIP) (Oral)**, 2024.<br>
-[paper] [code] [project] [slides] [video]<be>
+[paper](https://ieeexplore.ieee.org/document/10647716) [code] [project] [slides] [video]<be>
 - **Blind quality assessment of panoramic images based on multiple viewport sequences**<br>
 **Xuelin Liu**, Jiebin Yan, Zheng Wan, Yuming Fang, Hantao Liu<br>
 **IEEE International Symposium on Circuits and Systems (ISCAS) (Poster)**, 2024.<br>
-[paper] [code] [project] [slides] [video]<be>
+[paper](https://ieeexplore.ieee.org/document/10558321) [code] [project] [slides] [video]<be>
 - **EBi360: An edge-assisted viewport prediction method for 360° video based on BiLSTM**<br>
 Zheng Wan, Yueqin Hu, Yu Zhou, **Xuelin Liu**, Shenglu Zhao<br>
 **IEEE International Conference on Virtual Reality and Visualization (ICVRV) (Oral)**, 2024.<br>
-[paper] [code] [project] [slides] [video]<be>
+[paper](https://ieeexplore.ieee.org/document/11028665) [code] [project] [slides] [video]<be>
 
 **2023**<br>
 - **Collaborative edge caching for panoramic video streaming**<br>
 Zheng Wan, Mingyang Ma, **Xuelin Liu**<br>
 - **IEEE International Performance Computing and Communications Conference Workshop (IPCCC) (Poster)**, 2023.<br>
-[paper] [code] [project] [slides] [video]<be>
+[paper](https://ieeexplore.ieee.org/document/10253852) [code] [project] [slides] [video]<be>
 
 **2022**<br>
 - **Perceptual quality assessment of omnidirectional images** <br>
 Yuming Fang, Liping Huang, Jiebin Yan, **Xuelin Liu**, Yang Liu <br>
 **AAAI Conference on Artificial Intelligence (AAAI) (Oral)**, 2022. <br>
-[paper] [code] [project] [slides] [video] <br>
+[paper](https://ojs.aaai.org/index.php/AAAI/article/view/19937) [code] [project] [slides] [video] <br>
 - **Evaluating the robustness of depth image super-resolution models** <br>
 Dengxiang Wang, Jiebin Yan, **Xuelin Liu**, Yifan Zuo <br>
 **IEEE International Workshop on Multimedia Signal Processing (MMSP) (Poster)**, 2022. <br>
-[paper] [code] [project] [slides] [video] <be>
+[paper](https://ieeexplore.ieee.org/document/9949286) [code] [project] [slides] [video] <be>
 
 **2019**<br>
 - **Blind image quality assessment by learning from multiple annotators** <br>
