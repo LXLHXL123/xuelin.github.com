@@ -21,7 +21,7 @@ My primary research interest lies in image and video processing, including:
 
 ### News
 ---
-<ul style="height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+<ul style="height: 100px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
 <li><p>07/2025, ⭐ One paper is accepted by FGCS!</p>
 </li>
 <li><p>07/2025, ⭐ One paper is accepted by IEEE TIFS!</p>
