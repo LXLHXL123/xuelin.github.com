@@ -22,6 +22,8 @@ My primary research interest lies in image and video processing, including:
 ### News
 ---
 <ul>
+<li><p>07/2025, ⭐ One paper is accepted by FGCS!</p>
+</li>
 <li><p>07/2025, ⭐ One paper is accepted by IEEE TIFS!</p>
 </li>
 <li><p>07/2025, ⭐ One paper is accepted by IEEE TMM!</p>
@@ -59,12 +61,14 @@ My primary research interest lies in image and video processing, including:
 **<em>1. Preprints</em>**<be>
 - **Blind Omnidirectional Image Quality Assessment: Embracing the Magic Power of Multimodal Large Language Models**<br>
 <!--Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>-->
-- **Distributed cache optimization for metaverse scenarios under 3d gaussian splatting rendering**<br>
-<!--Yixuan Li<sup>+</sup>, **Xuelin Liu<sup>+</sup>**, Xiaoyang Wang, Shiqi Wang, Weisi Lin<br>-->
 
 
 **<em>2. Journal Papers</em>** <br>
 **2025**<br>
+- **Distributed cache optimization for metaverse scenarios under 3d gaussian splatting rendering**<br>
+Shenglu Zhao, Zheng Wan, Yifeng Tan, Xiaogang Dong, **Xuelin Liu**<br>
+**Future Generation Computer Systems (FGCS)**
+[paper]<br>
 - **FakeBench: Probing explainable fake image detection via large multimodal models**<br>
 Yixuan Li, **Xuelin Liu**, Xiaoyang Wang, Bu Sung Lee, Shiqi Wang, Anderson Rocha, Weisi Lin<br>
 **IEEE Transactions on Information Forensics and Security (TIFS)**, 2025.<br>
