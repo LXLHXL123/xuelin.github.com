@@ -67,7 +67,7 @@ My primary research interest lies in image and video processing, including:
 **2025**<br>
 - **Distributed cache optimization for metaverse scenarios under 3d gaussian splatting rendering**<br>
 Shenglu Zhao, Zheng Wan, Yifeng Tan, Xiaogang Dong, **Xuelin Liu**<br>
-**Future Generation Computer Systems (FGCS)**
+**Future Generation Computer Systems (FGCS)**, 2025.<br>
 [paper]<br>
 - **FakeBench: Probing explainable fake image detection via large multimodal models**<br>
 Yixuan Li, **Xuelin Liu**, Xiaoyang Wang, Bu Sung Lee, Shiqi Wang, Anderson Rocha, Weisi Lin<br>
