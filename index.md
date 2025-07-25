@@ -199,7 +199,7 @@ Dengxiang Wang, Jiebin Yan, **Xuelin Liu**, Yifan Zuo <br>
 - **Blind image quality assessment by learning from multiple annotators** <br>
 Kede Ma, **Xuelin Liu**, Yuming Fang, Eero P. Simoncelli <br>
 **IEEE International Conference on Image Processing (ICIP) (Oral)**, 2019. <br>
-[paper] [code] [project] [slides] [video]
+[paper](https://ieeexplore.ieee.org/document/8803390) [code] [project] [slides] [video]
 
 ### Academic Services
 ---
