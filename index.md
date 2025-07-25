@@ -212,14 +212,15 @@ Kede Ma, **Xuelin Liu**, Yuming Fang, Eero P. Simoncelli <br>
   - The Visual Computer (TVC)
   - Multimedia Systems (MS)
 - **Conference Reviewer**
-  - IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-  - International Conference on Computer Vision (ICCV)
-  - European Conference on Computer Vision (ECCV)
-  - International Joint Conference on Artificial Intelligence (IJCAI)
-  - IEEE International Conference on Multimedia and Expo (ICME)
-  - IEEE International Conference on Image Processing (ICIP)
-  - International Conference on Pattern Recognition (ICPR)
-  - Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
+  - IEEE Conference on Computer Vision and Pattern Recognition (CVPR): 2020, 2025
+  - International Conference on Computer Vision (ICCV): 2019, 2021
+  - European Conference on Computer Vision (ECCV): 2020
+  - International Joint Conference on Artificial Intelligence (IJCAI): 2025
+  - IEEE International Conference on Multimedia and Expo (ICME): 2020, 2023, 2024, 2025
+  - IEEE International Conference on Image Processing (ICIP): 2020
+  - International Conference on Pattern Recognition (ICPR): 2022
+  - Chinese Conference on Pattern Recognition and Computer Vision (PRCV): 2024, 2025
+  - Picture Coding Symposium (PCS): 2025
 
 ### Professional Activities
 ---
