@@ -22,7 +22,7 @@ My primary research interest lies in image and video processing, including:
 ### News
 ---
 <ul>
-<li><p>07/2025, ⭐ One paper is accepted by **FGCS**!</p>
+<li><p>07/2025, ⭐ One paper is accepted by FGCS!</p>
 </li>
 <li><p>07/2025, ⭐ One paper is accepted by IEEE TIFS!</p>
 </li>
